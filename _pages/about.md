@@ -24,9 +24,9 @@ Vacancies are available for PhD students, postdoctoral researchers and research 
 
 
 <h2 id="publications">Publications</h2>  
-*X.Q. Jin: Xianqing Jin， ‘*’ indicates the corresponding author and/or key supervisor of the first author.*
+_X.Q. Jin: Xianqing Jin， ‘*’ indicates the corresponding author and/or key supervisor of the first author._
 
-# I. Journal Papers
+**I. Journal Papers**
 
 - \[J1\] H. N. Parajuli, Xinping Wang, Ning Deng, **X.Q. Jin**, Jing Xu, Fan Li, Jian Zhao, H. Y. Fu, Ming Tang, Meng Xiang, and Songnian Fu, "Multipath interference in high-speed IMDD optical links: modeling and mitigation techniques \[Invited\]," *Chin. Opt. Lett.* vol. 24, no. 070005-1~16, Jul. 2026
   
@@ -115,7 +115,7 @@ Vacancies are available for PhD students, postdoctoral researchers and research 
 - \[J43\] **X.Q. Jin,** B. Xu, K. Qiu, J.M. Tang, and C.F. Zhang, “A novel technique of adaptive power allocation optical OFDM in multimode fiber communication,” *Journal of Optoelectronics Laser*, vol.19, no. 3, pp. 339-343, Mar. 2008.
   
 
-# II. Conference Papers
+**II. Conference Papers** 
 
 - \[C1\] **X.Q. Jin\***, W. Jin, Z. Zhong, S. Jiang, S. Rajbhandari, Y. Hong, R. Giddings, and J. Tang, “Improvement in convergence rate and power penalty with an error-controlled iterative algorithm in IMDD systems,” *Advanced Photonics Congress,* Maastricht, Netherlands, Jul. 2022.
   
